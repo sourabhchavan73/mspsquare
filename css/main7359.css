@@ -1,3 +1,6 @@
+body{
+  font-family: 'Inter', sans-serif!important;
+}
 .item-menu .item-sub-menu {
     display: none;
   }
@@ -4026,6 +4029,7 @@ select {
     letter-spacing: 0.05em;
   }
 }
+
 
 @media (min-width: 1536px) {
 }
